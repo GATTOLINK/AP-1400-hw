@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/yun/Desktop/AP-HW/build",
+  "command": "/usr/bin/g++  -I/home/yun/Desktop/AP-HW/AP1400-2-HW/include -g -g -Wall -ggdb -o CMakeFiles/main.dir/src/main.cpp.o -c /home/yun/Desktop/AP-HW/AP1400-2-HW/src/main.cpp",
+  "file": "/home/yun/Desktop/AP-HW/AP1400-2-HW/src/main.cpp"
+},
+{
+  "directory": "/home/yun/Desktop/AP-HW/build",
+  "command": "/usr/bin/g++  -I/home/yun/Desktop/AP-HW/AP1400-2-HW/include -g -g -Wall -ggdb -o CMakeFiles/main.dir/src/hw1.cpp.o -c /home/yun/Desktop/AP-HW/AP1400-2-HW/src/hw1.cpp",
+  "file": "/home/yun/Desktop/AP-HW/AP1400-2-HW/src/hw1.cpp"
+},
+{
+  "directory": "/home/yun/Desktop/AP-HW/build",
+  "command": "/usr/bin/g++  -I/home/yun/Desktop/AP-HW/AP1400-2-HW/include -g -g -Wall -ggdb -o CMakeFiles/main.dir/src/unit_test.cpp.o -c /home/yun/Desktop/AP-HW/AP1400-2-HW/src/unit_test.cpp",
+  "file": "/home/yun/Desktop/AP-HW/AP1400-2-HW/src/unit_test.cpp"
+}
+]
