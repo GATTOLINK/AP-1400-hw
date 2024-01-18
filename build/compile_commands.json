@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/yun/Desktop/AP-HW/AP1400-2-HW2/build",
+  "command": "/usr/bin/g++  -I/home/yun/Desktop/AP-HW/AP1400-2-HW2/AP1400-2-HW2/include -g -std=gnu++1z -o CMakeFiles/main.dir/src/main.cpp.o -c /home/yun/Desktop/AP-HW/AP1400-2-HW2/AP1400-2-HW2/src/main.cpp",
+  "file": "/home/yun/Desktop/AP-HW/AP1400-2-HW2/AP1400-2-HW2/src/main.cpp"
+},
+{
+  "directory": "/home/yun/Desktop/AP-HW/AP1400-2-HW2/build",
+  "command": "/usr/bin/g++  -I/home/yun/Desktop/AP-HW/AP1400-2-HW2/AP1400-2-HW2/include -g -std=gnu++1z -o CMakeFiles/main.dir/src/server.cpp.o -c /home/yun/Desktop/AP-HW/AP1400-2-HW2/AP1400-2-HW2/src/server.cpp",
+  "file": "/home/yun/Desktop/AP-HW/AP1400-2-HW2/AP1400-2-HW2/src/server.cpp"
+},
+{
+  "directory": "/home/yun/Desktop/AP-HW/AP1400-2-HW2/build",
+  "command": "/usr/bin/g++  -I/home/yun/Desktop/AP-HW/AP1400-2-HW2/AP1400-2-HW2/include -g -std=gnu++1z -o CMakeFiles/main.dir/src/client.cpp.o -c /home/yun/Desktop/AP-HW/AP1400-2-HW2/AP1400-2-HW2/src/client.cpp",
+  "file": "/home/yun/Desktop/AP-HW/AP1400-2-HW2/AP1400-2-HW2/src/client.cpp"
+},
+{
+  "directory": "/home/yun/Desktop/AP-HW/AP1400-2-HW2/build",
+  "command": "/usr/bin/g++  -I/home/yun/Desktop/AP-HW/AP1400-2-HW2/AP1400-2-HW2/include -g -std=gnu++1z -o CMakeFiles/main.dir/src/crypto.cpp.o -c /home/yun/Desktop/AP-HW/AP1400-2-HW2/AP1400-2-HW2/src/crypto.cpp",
+  "file": "/home/yun/Desktop/AP-HW/AP1400-2-HW2/AP1400-2-HW2/src/crypto.cpp"
+},
+{
+  "directory": "/home/yun/Desktop/AP-HW/AP1400-2-HW2/build",
+  "command": "/usr/bin/g++  -I/home/yun/Desktop/AP-HW/AP1400-2-HW2/AP1400-2-HW2/include -g -std=gnu++1z -o CMakeFiles/main.dir/src/unit_test.cpp.o -c /home/yun/Desktop/AP-HW/AP1400-2-HW2/AP1400-2-HW2/src/unit_test.cpp",
+  "file": "/home/yun/Desktop/AP-HW/AP1400-2-HW2/AP1400-2-HW2/src/unit_test.cpp"
+}
+]
